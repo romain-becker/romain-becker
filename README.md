@@ -33,7 +33,7 @@ Hi, I am a student in Epitech from France.
 - :zap: In my free time, I improve my skills in development and cybersecurity.
 
 <!--
-- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-romain-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romain-becker-81684a174/) -->
+- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-romain-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romain-becker-81684a174/) 
 
 </br>
 <div id="badges" align="center">
