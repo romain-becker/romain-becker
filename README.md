@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BROmain%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;Romain%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
 </br>
 
-
+<!--
 <div align="center" >
  <h3>INTERESTS</h3>
 </div>
@@ -25,3 +25,4 @@
 
 </br>
 
+--!> 
