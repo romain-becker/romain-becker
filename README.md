@@ -48,7 +48,7 @@ Hi, I am a student in Epitech from France.
 ---
 -->
 <div align="center" >
- <h3>MY SKILLS</h3>
+ <h3>INTERESTS</h3>
 </div>
 
 
